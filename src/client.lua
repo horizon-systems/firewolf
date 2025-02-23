@@ -467,7 +467,7 @@ builtInSites["display"]["firewolf"] = function()
 	center("Visit rdnt://help for help using Firewolf.")
 
 	term.setCursorPos(1, h - 2)
-	center("Made by GravityScore and 1lann and Towtow10")
+	center("Made by Horizon Systems")
 end
 
 
