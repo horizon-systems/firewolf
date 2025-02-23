@@ -938,7 +938,7 @@ local drawMenubar = function()
 			end
 		end
 	else
-		menubarWindow.setVisible(false)
+		menubarWindow.setVisible(true)
 	end
 end
 
