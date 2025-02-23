@@ -885,7 +885,7 @@ local setupMenubar = function()
 	if enableTabBar then
 		menubarWindow = window.create(originalTerminal, 1, 1, w, 2, false)
 	else
-		menubarWindow = window.create(originalTerminal, 1, 1, w, 1, false)
+		menubarWindow = window.create(originalTerminal, 1, 1, w, 2, false)
 	end
 end
 
